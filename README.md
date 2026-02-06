@@ -1,1 +1,2 @@
-#React Lerning journey
+#React Learning journey
+learn first commit
