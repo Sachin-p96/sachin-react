@@ -1,0 +1,23 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "A react learning project",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachin-p96/sachin-react.git"
+  },
+  "keywords": [],
+  "author": "Sachin Puthiyaparamban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin-p96/sachin-react/issues"
+  },
+  "homepage": "https://github.com/Sachin-p96/sachin-react#readme",
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
