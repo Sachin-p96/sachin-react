@@ -2,7 +2,7 @@
   "name": "namste-react",
   "version": "1.0.0",
   "description": "A react learning project",
-  "main": "index.html",
+  "source": "index.html",
   "scripts": {
     "test": "jest"
   },
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Sachin-p96/sachin-react#readme",
   "dependencies": {
-    "parcel": "^2.16.4"
+    "parcel": "^2.16.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   }
 }
