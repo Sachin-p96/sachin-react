@@ -4,7 +4,9 @@
   "description": "A react learning project",
   "source": "index.html",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,9 @@
     "parcel": "^2.16.4",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
-  }
+  },
+
+"browserlist": [
+"last 2 versions"
+] 
 }
