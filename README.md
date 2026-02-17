@@ -15,4 +15,4 @@ learn first commit
    - JSX is a syntax to create react element , it is actually not part of react , it is a general syntax.
    - jsx is an html like syntax but not html inside javascript
    - Parcel uses something called as Babel to transpile the JSX to browser understands
-   
+   - mock commit
