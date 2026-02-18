@@ -16,3 +16,6 @@ learn first commit
    - jsx is an html like syntax but not html inside javascript
    - Parcel uses something called as Babel to transpile the JSX to browser understands
    - mock commit
+#Day 4 
+   - Component Composition - Implement one component inside another component is called as component composition
+   - 
