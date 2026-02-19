@@ -18,4 +18,5 @@ learn first commit
    - mock commit
 #Day 4 
    - Component Composition - Implement one component inside another component is called as component composition
-   - 
+   - component architecture completed 
+   
