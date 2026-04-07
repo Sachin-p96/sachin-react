@@ -19,4 +19,19 @@ learn first commit
 #Day 4 
    - Component Composition - Implement one component inside another component is called as component composition
    - component architecture completed 
-   
+
+#Day 4-
+   component Design
+      Header 
+        Logo
+        nav links
+
+      Body
+         Search bar
+         restaurant container
+            -restaurant card
+    footer
+        copyright
+        links
+        address
+        contact
